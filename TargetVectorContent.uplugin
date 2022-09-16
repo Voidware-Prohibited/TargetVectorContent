@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Target Vector Content",
+	"Description": "",
+	"Category": "Content",
+	"CreatedBy": "VOIDWARE Prohibited",
+	"CreatedByURL": "https://github.com/Voidware-Prohibited",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "ALS",
+			"Enabled": true
+		},
+		{
+			"Name": "ALSXT",
+			"Enabled": true
+		}
+	]
+}
