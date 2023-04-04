@@ -35,6 +35,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "TargetVectorCode",
+			"Enabled": true
+		},
+		{
 			"Name": "TargetVectorEOS",
 			"Enabled": true
 		},

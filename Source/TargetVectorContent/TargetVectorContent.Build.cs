@@ -25,7 +25,7 @@ public class TargetVectorContent : ModuleRules
 		PublicDependencyModuleNames.AddRange(
 			new string[]
 			{
-				"Core",
+				"Core", "TargetVectorCode", "TargetVectorCommonUI", "TargetVectorEOS",
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
