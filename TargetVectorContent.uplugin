@@ -35,18 +35,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "TargetVectorCode",
-			"Enabled": true
-		},
-		{
-			"Name": "TargetVectorEOS",
-			"Enabled": true
-		},
-		{
-			"Name": "TargetVectorCommonUI",
-			"Enabled": true
-		},
-		{
 			"Name": "ALS",
 			"Enabled": true
 		},
